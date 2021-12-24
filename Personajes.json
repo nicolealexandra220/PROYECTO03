@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Gumball Watterson",
+        "category": "Principal",
+        "age": 12,
+        "gender": "masculino",
+        "species": "Gato"
+      },
+      {
+        "name": "Darwin Watterson",
+        "category": "Principal",
+        "age": 10,
+        "gender": "masculino",
+        "species": "Mitad Pez"
+      },
+      {
+        "name": "Nicole Watterson",
+        "category": "Principal",
+        "age": 42,
+        "gender": "Femenino",
+        "species": "Conejo"
+      },
+      {
+        "name": "Richard Watterson",
+        "category": "Principal",
+        "age": 42,
+        "gender": "masculino",
+        "species": "Conejo"
+      },
+      {
+        "name": "Anaís Watterson",
+        "category": "Principal",
+        "age": 4,
+        "gender": "Femenino",
+        "species": "Conejo"
+      },
+      {
+        "name": "Penny Fitzgerald",
+        "category": "Secundario",
+        "age": 12,
+        "gender": "Femenino",
+        "species": "Maní"
+      },
+      {
+        "name": "Leslie",
+        "category": "Secundario",
+        "age": 12,
+        "gender": "masculino",
+        "species": "Flor"
+      },
+      {
+        "name": "Alan Keane",
+        "category": "Secundario",
+        "age": 12,
+        "gender": "masculino",
+        "species": "Globo"
+      },
+      {
+        "name": "Carrie Krueger",
+        "category": "Secundario",
+        "age": "+300",
+        "gender": "Femenino",
+        "species": "Fantasma"
+      },
+      {
+        "name": "Tobías Wilson",
+        "category": "Secundario",
+        "age": 12,
+        "gender": "masculino",
+        "species": "Bufo arcoiris"
+      },
+      {
+        "name": "Carmen",
+        "category": "Secundario",
+        "age": 12,
+        "gender": "Femenino",
+        "species": "Cactus"
+      },
+      {
+        "name": "Larry Needlemeyer",
+        "category": "Secundario",
+        "age": 12,
+        "gender": "masculino",
+        "species": "Roca Humanoide"
+      },
+    {
+        
+
+    }
+]
+
+
+
+
+
+
+

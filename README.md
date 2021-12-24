@@ -1,0 +1,8 @@
+<h1><b>AdicTV</b></h1>
+<h3>▷ Somos AdditTV, una página que busca adentrarse a este mundo para informar  los logros obtenidos la serie del Increíble mundo de Gumball, mostrando sus temporadas en gráficos, también presentamos un  cuadro de doble entrada en la que se aprecia los premios y sus nominaciones, con la implementación de un filtro que muestra a los personajes principales como también a los personajes secundarios.</h3>
+<b>Proceso de diseño</b>
+<p>Como creadores tuvimos muchas opciones para elegir con respecto al concepto de nuestra página, asi que conversamos sobre nuestras series animadas favoritas y coincidimos en enfocarnos en el "Increíble mundo de Gumball".</p>
+<b>Necesidad del usuario</b>
+<p>Nuestros principales usuarios son los amantes del la serie Increíble mundo de Gumball, ya que como fanáticos buscamos saber más o buscar datos interesantes de nuestra serie favorito y nuestra página podrán encontrar esos datos curiosos que buscan.</p>
+<b>Potenciales usuarios</b>
+<p>Existen 2 grupos, la primera está conformada por personas que recién están viendo esta serie de televisión y desean adentrarse en la historia en base a la sinopsis, información de los personajes, cantidad de temporadas futuras a ver, etc. Y el otro grupo es el fandom leal a la serie, la cual se ve en necesidad de confirmar la información que ellos tienen con la información verdadera acerca de la serie.</p>
